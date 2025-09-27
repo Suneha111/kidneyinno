@@ -1,4 +1,4 @@
 streamlit
 requests
-requests_toolbelt
-speech_recognition 
+requests-toolbelt
+SpeechRecognition
